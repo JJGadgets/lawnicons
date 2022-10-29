@@ -407,6 +407,7 @@
     <icon drawable="@drawable/google_photos" package="com.google.android.apps.photos" name="Google Photos" />
     <icon drawable="@drawable/google_pixel_watch" package="com.google.android.apps.wear.companion" name="Google Pixel Watch" />
     <icon drawable="@drawable/google_play_books" package="com.google.android.apps.books" name="Google Play Books" />
+    <icon drawable="@drawable/google_play_books" package="com.foobnix.pro.pdf.reader" name="Librera FD" />
     <icon drawable="@drawable/google_play_games" package="com.google.android.play.games" name="Google Play Games" />
     <icon drawable="@drawable/google_play_store" package="com.android.vending" name="Google Play Store" />
     <icon drawable="@drawable/google_podcasts" package="com.google.android.apps.podcasts" name="Google Podcasts" />
@@ -855,6 +856,7 @@
     <icon drawable="@drawable/stealth" package="com.cosmos.unreddit" name="Stealth" />
     <icon drawable="@drawable/steam" package="com.valvesoftware.android.steam.community" name="Steam" />
     <icon drawable="@drawable/steam_link" package="com.valvesoftware.steamlink" name="Steam Link" />
+    <icon drawable="@drawable/steam_link" package="com.limelight" name="Moonlight" />
     <icon drawable="@drawable/stellio" package="io.stellio.music" name="Stellio" />
     <icon drawable="@drawable/stocard" package="de.stocard.stocard" name="Stocard" />
     <icon drawable="@drawable/strava" package="com.strava" name="Strava" />
@@ -885,6 +887,7 @@
     <icon drawable="@drawable/telegram" package="org.thunderdog.challegram" name="Telegram X" />
     <icon drawable="@drawable/telegram" package="org.thunderdog.challegramtwo" name="Telegram X" />
     <icon drawable="@drawable/termux" package="com.termux" name="Termux" />
+    <icon drawable="@drawable/termux" package="org.sufficientlysecure.termbot" name="TermBot" />
     <icon drawable="@drawable/textra" package="com.textra" name="Textra"/>
     <icon drawable="@drawable/the_battle_cats" package="jp.co.ponos.battlecatsen" name="The Battle Cats" />
     <icon drawable="@drawable/the_economist" package="com.economist.lamarr" name="Economist" />
